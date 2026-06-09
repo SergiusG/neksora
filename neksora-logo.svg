@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-labelledby="title">
+  <title id="title">НЭКСОРА</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@700&amp;display=swap');
+      .wordmark{font-family:'Golos Text','Arial',sans-serif;font-weight:700;font-size:30px;letter-spacing:3px;fill:#E6EEF8;}
+    </style>
+  </defs>
+  <g transform="translate(4,4)">
+    <rect width="48" height="48" rx="9" fill="#00D9FF"/>
+    <path d="M13 35 L35 13 M22 13 L35 13 L35 26" stroke="#070B14" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <text x="70" y="37" class="wordmark">НЭКСОРА</text>
+</svg>
